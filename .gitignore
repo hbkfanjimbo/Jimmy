@@ -1,0 +1,7 @@
+# The archive itself is built on your Mac and stays there.
+archive/
+chatgpt_upload/
+data/
+.venv/
+__pycache__/
+*.tmp
